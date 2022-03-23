@@ -1,0 +1,24 @@
+{
+  "solicitacoes": 
+  [
+    {
+      "IdSolicitacao": 1,
+      "Nome": "Allana Heloise Rita Ribeiro",
+	  "DataNascimento": "01/02/1997",
+	  "CPF": "77278900573",
+	  "Email": "allana-ribeiro80@construtorastaizabel.com.br",
+	  "TipoSolicitacao": "1",
+	  "DetalheSolicitacao": "Solicitação de Teste"
+    }
+  ],
+  "tipoSolicitacao": [
+	{
+		"IdTipoSolicitacao": 1,
+		"TipoSolicitacao": "Alteração"
+	},
+	{
+		"IdTipoSolicitacao": 2,
+		"TipoSolicitacao": "Exclusão"
+	}
+  ]
+}
