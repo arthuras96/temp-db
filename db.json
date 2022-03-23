@@ -2,7 +2,7 @@
   "solicitacoes": 
   [
     {
-      "IdSolicitacao": 1,
+      "id": 1,
       "Nome": "Allana Heloise Rita Ribeiro",
 	  "DataNascimento": "01/02/1997",
 	  "CPF": "77278900573",
@@ -13,11 +13,11 @@
   ],
   "tipoSolicitacao": [
 	{
-		"IdTipoSolicitacao": 1,
+		"id": 1,
 		"TipoSolicitacao": "Alteração"
 	},
 	{
-		"IdTipoSolicitacao": 2,
+		"id": 2,
 		"TipoSolicitacao": "Exclusão"
 	}
   ]
